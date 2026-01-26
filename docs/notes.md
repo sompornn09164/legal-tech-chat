@@ -36,3 +36,4 @@ Notes and usage details for legal-tech-chat.
 - link the usage section
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
